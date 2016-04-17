@@ -6,7 +6,8 @@ INSTALLATION
 
 CHROME WEB STORE
 ------
-COMING SOON
+INSTALL FROM HERE
+https://chrome.google.com/webstore/detail/allcaps/phaohlfaifkplhknhfeifaonmoodndip
 
 
 DEV MODE
