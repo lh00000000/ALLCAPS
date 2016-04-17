@@ -3,11 +3,11 @@
     "name": "ALLCAPS",
     "version": "0.1",
     "icons": {
-        "128": "icon128.png"
+        "128": "ICON.png"
     },
     "short_name": "ALLCAPS",
     "content_scripts": [{
         "matches": ["<all_urls>"],
-        "js": ["content.js"]
+        "js": ["ALLCAPS.js"]
     }]
 }
